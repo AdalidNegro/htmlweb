@@ -1,0 +1,282 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"Elemento"
+			],
+			[
+				"fo",
+				"formulario1"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"le",
+				"length"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2726,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "$(\"document\").ready()(\n	$(\"navbar-search pull-left\"))",
+			"file": "js/colsit.js",
+			"file_size": 21,
+			"file_write_time": 130160757633664442,
+			"settings":
+			{
+				"buffer_size": 53,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 91,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Admin/Desktop/sitio/css/custom.css",
+		"/C/Users/Admin/Desktop/index.html",
+		"/C/Users/Admin/Desktop/DemoHTML.sln",
+		"/C/Users/Admin/Desktop/taller.html",
+		"/C/Users/Admin/Desktop/taller.js",
+		"/C/Users/Admin/Desktop/sitio/index.html",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/sublime-V8/JSHINT.sublime-settings",
+		"/C/Users/Admin/Desktop/sitio/js/bootstrap.min.js",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Admin/Desktop/TALLER JUNIO13/TALLER JUNIO13/DemoHTML/bin/Debug/AppX/js/default.js",
+		"/C/Users/Admin/Desktop/TALLER JUNIO13/TALLER JUNIO13/DemoHTML/bin/Debug/AppX/js/data.js",
+		"/C/Users/Admin/Desktop/TALLER JUNIO13/TALLER JUNIO13/DemoHTML/js/data.js",
+		"/C/Users/Admin/Desktop/css/custom.css",
+		"/C/Users/Admin/Downloads/20480/20480/Allfiles/Mod02/Labfiles/Starter/Exercise 1/Resources/about.txt",
+		"/C/Users/Admin/Desktop/about.html",
+		"/C/Users/Admin/Downloads/20480/20480/Allfiles/Mod02/Labfiles/Starter/Exercise 1/Resources/index.txt"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2726,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								749,
+								749
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 165.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/colsit.js",
+					"settings":
+					{
+						"buffer_size": 53,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								50
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/main.css",
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.jsconsole_view":
+	{
+		"height": 100.0
+	},
+	"output.jshint_view":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
